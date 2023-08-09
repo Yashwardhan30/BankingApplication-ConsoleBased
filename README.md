@@ -9,4 +9,8 @@ this is a console base banking application which includesthe following
       deposit
       withdraw 
 
-concept of inheritance is used for creating different types of account
+it consists of four packages
+1. base project
+2. inclusion of arrays to create multiple accounts
+3. addition of transactions
+4. exception handeling
